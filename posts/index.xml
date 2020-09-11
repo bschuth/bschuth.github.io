@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Brian Schuth</title>
+    <link>http://bschuth.github.io/posts/</link>
+    <description>Recent content in Posts on Brian Schuth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Sep 2020 11:58:32 -0400</lastBuildDate>
+    
+	<atom:link href="http://bschuth.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello Post</title>
+      <link>http://bschuth.github.io/posts/hello-post/</link>
+      <pubDate>Fri, 11 Sep 2020 11:58:32 -0400</pubDate>
+      
+      <guid>http://bschuth.github.io/posts/hello-post/</guid>
+      <description>Another Hello World Hello world.</description>
+    </item>
+    
+  </channel>
+</rss>
