@@ -6,18 +6,18 @@
     <description>Recent content in Posts on Brian Schuth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2020 11:58:32 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2020 08:06:08 -0400</lastBuildDate>
     
 	<atom:link href="http://bschuth.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello Post</title>
-      <link>http://bschuth.github.io/posts/hello-post/</link>
-      <pubDate>Fri, 11 Sep 2020 11:58:32 -0400</pubDate>
+      <title>First Post</title>
+      <link>http://bschuth.github.io/posts/first-post/</link>
+      <pubDate>Sat, 12 Sep 2020 08:06:08 -0400</pubDate>
       
-      <guid>http://bschuth.github.io/posts/hello-post/</guid>
-      <description>Another Hello World Hello world.</description>
+      <guid>http://bschuth.github.io/posts/first-post/</guid>
+      <description>I expect to place short notes here, something of a public journal. I&amp;rsquo;m writing from Eastport, where the weather took a turn from the feverish to the sharply crisp on Thursday night. As I was struggling to sleep, the north wind suddenly rose up, sounding at first like a locomotive, or the shock wave from an explosion. When it became clear there was no fireball behind the breeze, but instead only colder air, I was able to drift off after wrapping myself more closely in my comforter.</description>
     </item>
     
   </channel>
