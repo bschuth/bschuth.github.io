@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plans on Brian Schuth</title>
+    <link>http://bschuth.github.io/plans/</link>
+    <description>Recent content in Plans on Brian Schuth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Sep 2020 12:37:38 -0400</lastBuildDate><atom:link href="http://bschuth.github.io/plans/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Future Classes</title>
+      <link>http://bschuth.github.io/plans/future-classes/</link>
+      <pubDate>Wed, 23 Sep 2020 12:37:38 -0400</pubDate>
+      
+      <guid>http://bschuth.github.io/plans/future-classes/</guid>
+      <description>If I were to create more &amp;ldquo;classes&amp;rdquo; of my own devising, here&amp;rsquo;s my list of what I want to address:
+ Learning Clojure (with SICP as a secondary text) Greek Tragedy (focus on reading Greek, but with practical additions. One tragedy at a time.) Software Architecture Lit Review (how to consolidate all those books and all that I&amp;rsquo;ve read over all this time?) German for Bach Cantatas (supports the yearly listening, simple way to absorb a sub-vocabulary of German)  </description>
+    </item>
+    
+  </channel>
+</rss>
