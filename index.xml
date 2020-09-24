@@ -6,7 +6,17 @@
     <description>Recent content on Brian Schuth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Sep 2020 20:21:14 -0400</lastBuildDate><atom:link href="http://bschuth.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Sep 2020 09:38:15 -0400</lastBuildDate><atom:link href="http://bschuth.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Todays Chain of Reading</title>
+      <link>http://bschuth.github.io/posts/todays-chain-of-reading/</link>
+      <pubDate>Thu, 24 Sep 2020 09:38:15 -0400</pubDate>
+      
+      <guid>http://bschuth.github.io/posts/todays-chain-of-reading/</guid>
+      <description>I am in danger of not getting anything done because of reading things online today, and many of those things I am reading online are making me want to read other things&amp;hellip;
+Here&amp;rsquo;s how I got here. I was on Hacker News and went to a blog entry entitled &amp;ldquo;Time Spent Programming Is Often Time Well Spent&amp;rdquo; by Eugene Wallingford, a computer science professor in Iowa. Next to that was the post I mention in my book list, which took me to The Paris Review.</description>
+    </item>
+    
     <item>
       <title>23 September 2020</title>
       <link>http://bschuth.github.io/homework/23-september-2020/</link>
@@ -35,7 +45,7 @@ New Books Titles I&amp;rsquo;ve come across that make me want to read them:
       
       <guid>http://bschuth.github.io/plans/future-classes/</guid>
       <description>If I were to create more &amp;ldquo;classes&amp;rdquo; of my own devising, here&amp;rsquo;s my list of what I want to address:
- Learning Clojure (with SICP as a secondary text) Greek Tragedy (focus on reading Greek, but with practical additions. One tragedy at a time.) Software Architecture Lit Review (how to consolidate all those books and all that I&amp;rsquo;ve read over all this time?) German for Bach Cantatas (supports the yearly listening, simple way to absorb a sub-vocabulary of German)  </description>
+ Learning Clojure (with SICP as a secondary text) Greek Tragedy (focus on reading Greek, but with practical additions. One tragedy at a time.) Software Architecture Lit Review (how to consolidate all those books and all that I&amp;rsquo;ve read over all this time?) German for Bach Cantatas (supports the yearly listening, simple way to absorb a sub-vocabulary of German) Building a Simple Compiler/Interpreter (because of the Crafting Interpreters book I heard about, and mentioned here.</description>
     </item>
     
     <item>
