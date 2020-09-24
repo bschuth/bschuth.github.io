@@ -3,17 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://bschuth.github.io/</loc>
-    <lastmod>2020-09-23T12:37:38-04:00</lastmod>
+    <loc>http://bschuth.github.io/homework/23-september-2020/</loc>
+    <lastmod>2020-09-23T20:21:14-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://bschuth.github.io/plans/future-classes/</loc>
-    <lastmod>2020-09-23T12:37:38-04:00</lastmod>
+    <loc>http://bschuth.github.io/</loc>
+    <lastmod>2020-09-23T20:21:14-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bschuth.github.io/homework/</loc>
+    <lastmod>2020-09-23T20:21:14-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bschuth.github.io/plans/books-to-read/</loc>
+    <lastmod>2020-09-23T12:53:33-04:00</lastmod>
   </url>
   
   <url>
     <loc>http://bschuth.github.io/plans/</loc>
+    <lastmod>2020-09-23T12:53:33-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bschuth.github.io/plans/future-classes/</loc>
     <lastmod>2020-09-23T12:37:38-04:00</lastmod>
   </url>
   
